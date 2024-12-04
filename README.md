@@ -44,22 +44,3 @@ This script will:
 
 ## License
 This project is licensed under the MIT License.
-```
-
----
-
-### Explanation of the Sections:
-1. Project Overview:
-   - The description of the project (launching EC2, creating S3 bucket) and how it automates tasks using Python.
-
-2. Prerequisites:
-   - Instructions on the dependencies (`boto3` library and AWS CLI) and installation steps.
-
-3. How to Run:
-   - Clear steps for anyone to clone the repository and run the script on their local machine.
-
-4. Example Output:
-   - Example of what the user can expect after running the script (e.g., EC2 instance details and S3 bucket).
-
-5. License:
-   - A license section (optional but professional).
